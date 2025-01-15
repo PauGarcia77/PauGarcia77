@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Pau 👋
 
 - 🌱 I’m currently learning in a DAM higher vocational training
 - 📫 How to reach me: paugarciaparets@gmail.com
