@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning in a DAM higher vocational training
 - 📫 How to reach me: paugarciaparets@gmail.com
 - ⚡ Fun fact: I am passionate about programming, cybersecurity...
+
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
