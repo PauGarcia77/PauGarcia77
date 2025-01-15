@@ -1,10 +1,12 @@
 ## Hi there, I'm Pau 👋
 
+- ⚡ I am 18 years
 - 🌱 I’m currently learning in a DAM higher vocational training
 - 📫 How to reach me: paugarciaparets@gmail.com
 - ⚡ Fun fact: I am passionate about programming, cybersecurity...
 
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
