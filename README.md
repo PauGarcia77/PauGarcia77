@@ -1,9 +1,9 @@
 ## Hi there, I'm Pau 👋
 
-- ⚡ I am 18 years
-- 🌱 I’m currently learning in a DAM higher vocational training
-- 📫 How to reach me: paugarciaparets@gmail.com
-- ⚡ Fun fact: I am passionate about programming, cybersecurity...
+- ⚡ Tengo 18 años
+- 🌱 Actualmente estoy cursando en una formación profesional superior DAM.
+- 📫 Cómo contactarme: paugarciaparets@gmail.com
+- ⚡ Dato curioso: Me apasiona la programación, la ciberseguridad...
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
