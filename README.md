@@ -1,4 +1,4 @@
-## Hi there, I'm Pau 👋
+
 
 - ⚡ Tengo 18 años
 - 🌱 Actualmente estoy cursando en una formación profesional superior DAM.
